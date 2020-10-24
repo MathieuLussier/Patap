@@ -1,6 +1,6 @@
 # Patap
 
-Patapis a game base on the browser.
+Patap is a game base on the browser.
 
 ## Installation
 
